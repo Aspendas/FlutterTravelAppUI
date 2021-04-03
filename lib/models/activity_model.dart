@@ -4,7 +4,7 @@ class Activity {
   String name;
   String type;
   List<String> startTimes;
-  int rating;
+  double rating;
   int price;
 
   Activity({

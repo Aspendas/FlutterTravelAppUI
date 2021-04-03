@@ -22,7 +22,7 @@ List<Activity> activities = [
     name: 'St. Mark\'s Basilica',
     type: 'Sightseeing Tour',
     startTimes: ['9:00 am', '11:00 am'],
-    rating: 5,
+    rating: 5.0,
     price: 30,
   ),
   Activity(
@@ -30,7 +30,7 @@ List<Activity> activities = [
     name: 'Walking Tour and Gonadola Ride',
     type: 'Sightseeing Tour',
     startTimes: ['11:00 pm', '1:00 pm'],
-    rating: 4,
+    rating: 4.7,
     price: 210,
   ),
   Activity(
@@ -38,7 +38,7 @@ List<Activity> activities = [
     name: 'Murano and Burano Tour',
     type: 'Sightseeing Tour',
     startTimes: ['12:30 pm', '2:00 pm'],
-    rating: 3,
+    rating: 3.9,
     price: 125,
   ),
 ];
